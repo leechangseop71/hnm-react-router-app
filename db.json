@@ -1,0 +1,74 @@
+{
+  "products":[
+      {
+          "id":0,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1679837632/ophtekkvf1oyhya8fdwe.jpg",
+          "title":"자카드 위브 탑",
+          "price":"39.900",
+          "choice":true,
+          "new":true,
+          "size":["S","M"]
+
+      },
+      {
+          "id":1,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1679837681/qjujhpcmmykyoygm2oyg.jpg",
+          "title":"스트레이트 팬츠",
+          "price":59.900,
+          "choice":true,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":2,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1679931154/hsjk6ntz6cd9kn7t6n2a.jpg",
+          "title":"새틴 드레스",
+          "price":69.900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":3,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1679931154/hsjk6ntz6cd9kn7t6n2a.jpg",
+          "title":"새틴 랩스타일 드레스",
+          "price":34.900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":4,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1680580357/pfyqzurbpxfuiuaiyks7.jpg",
+          "title":"뷔스티에 룩 리브니트 탑",
+          "price":34.900,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":4,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1680580448/pff2eumouhratzix3dtx.jpg",
+          "title":"오프숄더 드레스",
+          "price":50.000,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      },
+      {
+          "id":5,
+          "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1680580533/ah98b7xs577aasz6vnkk.jpg",
+          "title":"플리츠 드레스",
+          "price":56.000,
+          "choice":false,
+          "new":true,
+          "size":["S","M","L"]
+
+      }
+  ]
+}
