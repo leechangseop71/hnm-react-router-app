@@ -11,7 +11,7 @@ const ProductAll = () => {
   const getProducts = async () => {
     try {
       let keyword = query.get("q") || "";
-      let url = `https://my-json-server.typicode.com/legobitna/hnm-react-router/products?q=${keyword}`;
+      let url = `https://my-json-server.typicode.com/leechangseop71/hnm-react-router-app/products?q=${keyword}`;
       let response = await fetch(url);
       let data = await response.json();
       if (data.length < 1) {
