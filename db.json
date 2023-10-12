@@ -4,7 +4,7 @@
           "id":0,
           "img":"https://res.cloudinary.com/dyoj0undj/image/upload/v1679837632/ophtekkvf1oyhya8fdwe.jpg",
           "title":"자카드 위브 탑",
-          "price":"39.900",
+          "price":39.900,
           "choice":true,
           "new":true,
           "size":["S","M"]
